@@ -1,0 +1,10 @@
+<data>
+    <person name="Max">
+        <age>30</age>
+        <city>Berlin</city>
+    </person>
+    <person name="Anna">
+        <age>25</age>
+        <city>Hamburg</city>
+    </person>
+</data>
